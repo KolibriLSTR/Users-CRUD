@@ -1,0 +1,3 @@
+Const = Variáveis que são constantes, ou seja, o valor não será alterado
+Let = Variáveis que são mutáveis, ou seja, o valor será alterado
+Var = Variável usada em um escopo global
